@@ -18,5 +18,5 @@
   <img align="center" alt="Flavia-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
   <img align="center" alt="Flavia-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">       
   
-
+  ![Snake animation](https://github.com/flaviaolivsantos/flaviaolivsantos/blob/output/github-contribution-grid-snake.svg)
 </div>
